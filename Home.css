@@ -4,14 +4,14 @@
 }
 
 .u-section-1-1 .u-sheet-1 {
-  min-height: 800px;
+  min-height: 598px;
 }
 
 .u-section-1-1 .u-text-1 {
   font-size: 6rem;
   font-weight: 700;
   font-family: "Abril Fatface";
-  margin: 226px auto 0;
+  margin: 135px auto 0;
 }
 
 .u-section-1-1 .u-text-2 {
@@ -22,104 +22,34 @@
   background-image: none;
   text-transform: uppercase;
   font-weight: 700;
-  margin: 40px auto 60px;
+  margin: 40px auto 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 660px;
+    min-height: 493px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 506px;
+    min-height: 378px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 380px;
+    min-height: 284px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 239px;
+    min-height: 179px;
   }
 
   .u-section-1-1 .u-text-1 {
     font-size: 3.75rem;
-  }
-}.u-section-1-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/ScreenShot2021-03-17at11.59.57.png");
-  background-position: 50% 50%;
-}
-
-.u-section-1-2 .u-sheet-1 {
-  min-height: 800px;
-}
-
-.u-section-1-2 .u-text-1 {
-  text-shadow: 0 -2px 8px rgba(128,128,128,1);
-  font-weight: 700;
-  font-family: "Abril Fatface";
-  margin: 464px 300px 0;
-}
-
-.u-section-1-2 .u-text-2 {
-  width: 837px;
-  margin: 30px auto 60px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1-2 .u-sheet-1 {
-    min-height: 660px;
-  }
-
-  .u-section-1-2 .u-text-1 {
-    margin-left: 200px;
-    margin-right: 200px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-1-2 .u-sheet-1 {
-    min-height: 506px;
-  }
-
-  .u-section-1-2 .u-text-1 {
-    margin-left: 90px;
-    margin-right: 90px;
-  }
-
-  .u-section-1-2 .u-text-2 {
-    width: 720px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1-2 .u-sheet-1 {
-    min-height: 380px;
-  }
-
-  .u-section-1-2 .u-text-1 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1-2 .u-text-2 {
-    width: 540px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-1-2 .u-sheet-1 {
-    min-height: 287px;
-  }
-
-  .u-section-1-2 .u-text-2 {
-    width: 340px;
   }
 }.u-block-cbfc-2 {
   position: absolute;
