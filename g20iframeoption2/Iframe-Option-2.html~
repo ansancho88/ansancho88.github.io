@@ -141,7 +141,7 @@
                 <p class="u-large-text u-text u-text-variant u-text-2">
                   <span style="font-weight: 700;">Business20</span>&nbsp; Start Time Oct 30 9am GMT +1 <span style="font-weight: 700;">Meeting ID</span> 1080
                 </p>
-                <iframe src="https://join.ucdemolab.com/en-US/meeting/1080" allowusermedia allow="microphone; camera; encrypted-media; display-capture;" height="600" width="1000" title="Iframe Example"></iframe>
+                <img alt="" class="u-image u-image-default u-image-1" data-image-width="1600" data-image-height="1067" src="images/greg-rosenke-3ULMRQZ5APA-unsplash1.jpg">
               </div>
             </div>
             <div class="u-carousel-item u-container-style u-shape-rectangle u-slide u-carousel-item-2" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">
@@ -154,7 +154,7 @@
                   <span style="font-weight: 700;">Civil20</span>&nbsp; Start Time Oct 30 9am GMT +1&nbsp; <span style="font-weight: 700;">Meeting</span>
                   <span style="font-weight: 700;">ID</span> 1083
                 </p>
-                <iframe src="https://join.ucdemolab.com/en-US/meeting/1083" allowusermedia allow="microphone; camera; encrypted-media; display-capture;" height="600" width="1000" title="Iframe Example"></iframe>
+                <img alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067" src="images/greg-rosenke-3ULMRQZ5APA-unsplash1.jpg">
               </div>
             </div>
             <div class="u-carousel-item u-container-style u-expanded-width u-shape-rectangle u-slide u-carousel-item-3" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">
@@ -166,7 +166,7 @@
                 <p class="u-large-text u-text u-text-variant u-text-4">
                   <span style="font-weight: 700;">Labour20</span>&nbsp; Start Time Oct 30 9am GMT +1 <span style="font-weight: 700;">Meeting Id</span> 1081
                 </p>
-                <iframe src="https://join.ucdemolab.com/en-US/meeting/1081" allowusermedia allow="microphone; camera; encrypted-media; display-capture;" height="600" width="1000" title="Iframe Example"></iframe>
+                <img alt="" class="u-image u-image-default u-image-3" data-image-width="1600" data-image-height="1067" src="images/greg-rosenke-3ULMRQZ5APA-unsplash1.jpg">
               </div>
             </div>
             <div class="u-carousel-item u-container-style u-expanded-width u-shape-rectangle u-slide" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">
@@ -178,7 +178,7 @@
                 <p class="u-large-text u-text u-text-variant u-text-5">
                   <span style="font-weight: 700;">Think20</span>&nbsp; Start Time Oct 30 9am GMT +1 <span style="font-weight: 700;">Meeting Id</span> 1082
                 </p>
-                <iframe src="https://join.ucdemolab.com/en-US/meeting/1082" allowusermedia allow="microphone; camera; encrypted-media; display-capture;" height="600" width="1000" title="Iframe Example"></iframe>
+                <img alt="" class="u-image u-image-default u-image-4" data-image-width="1600" data-image-height="1067" src="images/greg-rosenke-3ULMRQZ5APA-unsplash1.jpg">
               </div>
             </div>
           </div>
@@ -226,5 +226,16 @@
         <p class="u-small-text u-text u-text-variant u-text-1">Cisco Meeting Server<br>Web App&nbsp;
         </p>
       </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="https://nicepage.com/" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
   </body>
 </html>

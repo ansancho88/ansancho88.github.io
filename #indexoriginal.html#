@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>g20 room</h3>
+<iframe src="https://join.ucdemolab.com/en-US/meeting/1080" allowusermedia allow="microphone; camera; encrypted-media; display-capture;" height="600" width="1000" title="Iframe Example"></iframe>
+<p>
+<h3>g20 room</h3>
+<iframe src="https://join.ucdemolab.com/en-US/meeting/1081" allowusermedia allow="microphone; camera; encrypted-media; display-capture;" height="800" width="1200" title="Iframe Space"></iframe>
+
+<p>Notes</p>
+<p>From CMS release 3.2, iFrames are supported in webBridge3.</p>
+<p>Spaces manually created, not access methods or passcodes.</p>
+
+</body>
+</html>
+
